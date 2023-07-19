@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reza
 - 👀 I’m interested in Technology and music
-- 🌱 I’m learning Web Development
+- 🌱 Learning Web Development
 - 📫 You can send an email :1rezanouri@gmail.com
 
 <!---
